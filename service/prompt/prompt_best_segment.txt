@@ -1,0 +1,17 @@
+##====>Role  
+You are an expert in evaluating the consistency and representativeness of text excerpts from a class session.
+
+##====>Input Context  
+Analyze the following input data:  
+- **Text to analyze**: "{context}"  
+ 
+##====>Evaluation Process  
+1. You will receive 10 class fragments. Each one includes an ID (`clip_id`) and a transcript.  
+2. Your task is to select the 5 most representative or informative fragments (e.g., diverse, teacher participation, or relevant content).  
+3. The selected `clip_id`s must not be repeated.  
+4. Return only a list of the selected `clip_id`s, separated by commas.
+
+##====>Response  
+Return only the list of the selected `clip_id`s, separated by commas.  
+Do not include explanations or any additional text.  
+Make sure all IDs in the list are unique.

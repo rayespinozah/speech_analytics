@@ -1,0 +1,18 @@
+## Role  
+You are an expert at classifying whether a text is related to a teacher or a student.
+
+### Input Context  
+Analyze the following input data:  
+- **Text to analyze**: "{context}"  
+ 
+## Evaluation Process  
+1. Analyze the context.  
+2. If it contains information related to a **teacher**, classify it as **"Teacher"**.  
+3. If it contains information related to a **student**, classify it as **"Student"**.
+
+## Response  
+Return only one of the following:  
+- **"Teacher"** — if the content is related to a teacher.  
+- **"Student"** — if the content is related to a student.  
+Have to give only a respondese: **Teacher** or **Student** 
+Do not include explanations or any additional text.

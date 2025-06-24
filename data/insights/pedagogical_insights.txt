@@ -1,0 +1,30 @@
+##=====>Error Analysis
+
+After reviewing several sentences from intermediate-level students, the most frequent errors can be identified as follows:
+
+### 1. Verb Tense Consistency Error
+- Example: Student's sentence: "I has eaten breakfast already."
+  - Corrected sentence: "I have eaten breakfast already."
+- Brief explanation: Students often switch between different verb tenses within a single sentence, leading to inconsistency. This error can be due to a lack of understanding of verb tense rules or poor time management while speaking.
+- Frequency: High frequency
+
+### 2. Subject-Verb Agreement Error
+- Example: Student's sentence: "The students are study for the exam."
+  - Corrected sentence: "The students are studying for the exam."
+- Brief explanation: Students sometimes forget to agree subject-verb when using plural or singular subjects, resulting in grammatical issues.
+- Frequency: Medium to high frequency
+
+### 3. Overuse or Misuse of Vocabulary
+- Example: Student's sentence: "I'm really feel happy today."
+  - Corrected sentence: "I'm feeling really happy today."
+- Brief explanation: Intermediate-level students often misuse or overuse vocabulary, especially with emotional expressions or nuances. This could result in misinterpretation of intended meaning.
+- Frequency: Medium to high frequency
+
+### 4. Preposition Error
+- Example: Student's sentence: "The book are on the table."
+  - Corrected sentence: "The books are on the table."
+- Brief explanation: Students often struggle with preposition usage and placement, which can change the meaning of the sentence significantly.
+- Frequency: Medium frequency
+
+##=====>Pedagogical Rule
+"If a student makes the Verb Tense Consistency Error more than 3 times, suggest an exercise on Verb Tense Review, focusing on identifying and correcting tense errors within a single sentence."

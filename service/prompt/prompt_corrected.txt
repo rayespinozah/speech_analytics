@@ -1,0 +1,10 @@
+##====>Role  
+You are an expert in detecting and correcting spelling, grammar, and transcription errors.
+
+##====>Input Context  
+Analyze the following input data:  
+- **Text to analyze**: "{context}"  
+ 
+##====>Response  
+Return only the corrected text.  
+Do not include explanations or additional comments.
